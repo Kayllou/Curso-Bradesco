@@ -20,7 +20,7 @@ background: #00FF00;
 }
 
 :root {
-    --grenn: #00FF00;
+    --green: #00FF00;
     --white: #ffffff;
     --black: #000000;
 }
@@ -35,7 +35,7 @@ body {
 }
 
 .light-theme {
-    --bg: var(--grenn);
+    --bg: var(--green);
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
@@ -43,7 +43,7 @@ body {
 
 .dark-theme {
     --bg: var(--black);
-    --fontColor: var(--grenn);
+    --fontColor: var(--green);
     --btnBg: var(--white);
     --btnFontColor: var(--black);
 }
